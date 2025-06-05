@@ -6,7 +6,24 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    // Definição das variáveis para armazenar as propriedades das cidades
+    // Dados da cidade de São Paulo
+    Cidade: São Paulo\n");
+    Estado: A\n");
+    Código: A01\n")
+    População: 12.325.000\n");
+    Área: 1.521,11 km²\n");
+    PIB: 699,28 bilhões de Reais\n");
+    Número de pontos turísticos: 50\n");
+    
+
+    //Dados da cidade do Rio de Janeiro
+    printf("Cidade: Rio de Janeiro\n");
+    printf("Estado: B\n");
+    printf("Código: B02\n");
+    printf("População: 6.748.000\n");
+    printf("Área:1.521,11 km²\n");
+    printf("PIB: 300,50 bilhões de reais\n");
+    printf("Número de Pontos Turísticos: 30\n");// Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
     
